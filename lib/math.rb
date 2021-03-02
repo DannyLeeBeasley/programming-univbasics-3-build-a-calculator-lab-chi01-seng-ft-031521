@@ -22,11 +22,11 @@ end
 
 division(4,12)
 
-end
-
 def modulo(num1, num2)
-
+  remainder = num2 % num1
 end
+
+modulo(4,13)
 
 def square_root(num)
   squareroot = 
